@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/bin/Debug/net8.0/sistemapermissoes
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/bin/Debug/net8.0/sistemapermissoes.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/bin/Debug/net8.0/sistemapermissoes.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/bin/Debug/net8.0/sistemapermissoes.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/bin/Debug/net8.0/sistemapermissoes.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/refint/sistemapermissoes.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/sistemapermissoes.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemapermissoes/obj/Debug/net8.0/ref/sistemapermissoes.dll
