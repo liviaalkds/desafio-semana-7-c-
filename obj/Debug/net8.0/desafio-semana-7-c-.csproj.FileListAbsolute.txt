@@ -1,0 +1,5 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/obj/Debug/net8.0/desafio-semana-7-c-.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/obj/Debug/net8.0/desafio-semana-7-c-.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/obj/Debug/net8.0/desafio-semana-7-c-.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/obj/Debug/net8.0/desafio-semana-7-c-.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/obj/Debug/net8.0/desafio-semana-7-c-.sourcelink.json

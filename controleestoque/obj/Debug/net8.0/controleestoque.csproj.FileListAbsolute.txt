@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/bin/Debug/net8.0/controleestoque
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/bin/Debug/net8.0/controleestoque.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/bin/Debug/net8.0/controleestoque.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/bin/Debug/net8.0/controleestoque.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/bin/Debug/net8.0/controleestoque.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/refint/controleestoque.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/controleestoque.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controleestoque/obj/Debug/net8.0/ref/controleestoque.dll

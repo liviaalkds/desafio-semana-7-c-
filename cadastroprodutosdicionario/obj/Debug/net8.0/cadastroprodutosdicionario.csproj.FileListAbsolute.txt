@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/bin/Debug/net8.0/cadastroprodutosdicionario
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/bin/Debug/net8.0/cadastroprodutosdicionario.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/bin/Debug/net8.0/cadastroprodutosdicionario.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/bin/Debug/net8.0/cadastroprodutosdicionario.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/bin/Debug/net8.0/cadastroprodutosdicionario.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/refint/cadastroprodutosdicionario.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/cadastroprodutosdicionario.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/cadastroprodutosdicionario/obj/Debug/net8.0/ref/cadastroprodutosdicionario.dll

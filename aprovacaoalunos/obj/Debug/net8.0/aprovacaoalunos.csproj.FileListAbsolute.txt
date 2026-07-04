@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/bin/Debug/net8.0/aprovacaoalunos
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/bin/Debug/net8.0/aprovacaoalunos.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/bin/Debug/net8.0/aprovacaoalunos.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/bin/Debug/net8.0/aprovacaoalunos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/bin/Debug/net8.0/aprovacaoalunos.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/refint/aprovacaoalunos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/aprovacaoalunos.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/aprovacaoalunos/obj/Debug/net8.0/ref/aprovacaoalunos.dll

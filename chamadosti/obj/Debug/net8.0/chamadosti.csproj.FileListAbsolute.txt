@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/bin/Debug/net8.0/chamadosti
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/bin/Debug/net8.0/chamadosti.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/bin/Debug/net8.0/chamadosti.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/bin/Debug/net8.0/chamadosti.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/bin/Debug/net8.0/chamadosti.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/refint/chamadosti.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/chamadosti.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/chamadosti/obj/Debug/net8.0/ref/chamadosti.dll

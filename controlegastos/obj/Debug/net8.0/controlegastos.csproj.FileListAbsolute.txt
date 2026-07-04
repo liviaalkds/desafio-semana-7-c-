@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/bin/Debug/net8.0/controlegastos
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/bin/Debug/net8.0/controlegastos.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/bin/Debug/net8.0/controlegastos.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/bin/Debug/net8.0/controlegastos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/bin/Debug/net8.0/controlegastos.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/refint/controlegastos.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/controlegastos.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/controlegastos/obj/Debug/net8.0/ref/controlegastos.dll

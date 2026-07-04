@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/bin/Debug/net8.0/filaatendimento
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/bin/Debug/net8.0/filaatendimento.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/bin/Debug/net8.0/filaatendimento.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/bin/Debug/net8.0/filaatendimento.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/bin/Debug/net8.0/filaatendimento.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/refint/filaatendimento.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/filaatendimento.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/filaatendimento/obj/Debug/net8.0/ref/filaatendimento.dll

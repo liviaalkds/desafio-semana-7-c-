@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/bin/Debug/net8.0/historiconavegacao
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/bin/Debug/net8.0/historiconavegacao.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/bin/Debug/net8.0/historiconavegacao.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/bin/Debug/net8.0/historiconavegacao.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/bin/Debug/net8.0/historiconavegacao.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/refint/historiconavegacao.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/historiconavegacao.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/historiconavegacao/obj/Debug/net8.0/ref/historiconavegacao.dll

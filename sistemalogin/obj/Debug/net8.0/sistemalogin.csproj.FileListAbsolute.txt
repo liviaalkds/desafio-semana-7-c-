@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/bin/Debug/net8.0/sistemalogin
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/bin/Debug/net8.0/sistemalogin.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/bin/Debug/net8.0/sistemalogin.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/bin/Debug/net8.0/sistemalogin.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/bin/Debug/net8.0/sistemalogin.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/refint/sistemalogin.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/sistemalogin.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemalogin/obj/Debug/net8.0/ref/sistemalogin.dll

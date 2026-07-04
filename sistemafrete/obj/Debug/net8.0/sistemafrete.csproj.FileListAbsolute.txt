@@ -1,0 +1,15 @@
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/bin/Debug/net8.0/sistemafrete
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/bin/Debug/net8.0/sistemafrete.deps.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/bin/Debug/net8.0/sistemafrete.runtimeconfig.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/bin/Debug/net8.0/sistemafrete.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/bin/Debug/net8.0/sistemafrete.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.GeneratedMSBuildEditorConfig.editorconfig
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.AssemblyInfoInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.AssemblyInfo.cs
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.csproj.CoreCompileInputs.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.sourcelink.json
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/refint/sistemafrete.dll
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.pdb
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/sistemafrete.genruntimeconfig.cache
+/home/livia/RiderProjects/desafio-semana-7-c-/sistemafrete/obj/Debug/net8.0/ref/sistemafrete.dll
